@@ -229,9 +229,11 @@ Power bi snap shots
 Includes operations such as creating **new measure, grouping certain data** to get more precise outcome
 
 1. **Cards**
+
 ![Image](https://github.com/user-attachments/assets/9aace6e7-b4ae-4727-a1a8-eb667f2687e9)
 
 2. **Bar chart**
+
 ![Image](https://github.com/user-attachments/assets/96a7623a-c720-4746-a06a-dbff91d4ad9b)
 
 3. **Line Chart** :
@@ -267,10 +269,11 @@ Shows each category of **RAM** Available
 
 ![Image](https://github.com/user-attachments/assets/9e9d5168-d3b5-4024-96c8-e5b123399940)
 
-9. **Donut Chart** : 
+8. **Donut Chart** : 
 This donut chart shows the distribution of mobile devices by back camera categories.  
 Over half (53.44%) of the devices have **50MP & 50MP** back cameras.  
 Other popular setups include **40MP & 48MP** and **13MP & 13MP** combinations.
+
 ![Image](https://github.com/user-attachments/assets/dac722a0-944c-4341-9e7c-b609c05740de)
 
 ---
