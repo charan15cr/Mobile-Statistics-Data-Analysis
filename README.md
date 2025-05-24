@@ -155,7 +155,7 @@ order by highest_price_in_INDIA_INR desc
 ```
 ![Image](https://github.com/user-attachments/assets/9a9f3bb3-1c55-445a-8f29-2263699f1978)
 
-5. Average pricing devices from each company in Indai 
+5. Average pricing devices from each company in India 
 ```http
 select company_name,
 cast(avg(launch_price_india) as decimal(10,2)) as avg_price_in_INDIA_INR
@@ -189,7 +189,7 @@ limit 5
 ```
 ![Image](https://github.com/user-attachments/assets/92034186-2c2a-4ddd-bed6-631e859d38f4)
 
-8. RAM categories and divices
+8. RAM categories and devices
 ```http
 SELECT RAM_GB, COUNT(*) AS no_of_mobiles
 FROM mobiles
